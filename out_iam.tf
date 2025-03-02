@@ -1,7 +1,3 @@
-# __generated__ by Terraform
-# Please review these resources and move them into your main configuration files.
-
-# __generated__ by Terraform from "role-acesso-ssm"
 resource "aws_iam_instance_profile" "role_acesso_ssm" {
   name        = "role-acesso-ssm"
   name_prefix = null
